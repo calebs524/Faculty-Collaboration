@@ -18,11 +18,9 @@ No additional installation necessary.<br>
 **Usage**: How to use it? <br>
 1. Turn on your neo4j server for academic work
 2. Enter your mysql username and password between lines 10 and 17 in file mysql_utils1.py
-   ![image](https://github.com/CS411DSO-SP24/Caleb_Saswati/assets/161897421/133061a9-7c51-4966-84dc-038604f05978)
 
 
 3. Enter your neo4j URI, username, and password between lines 17-19 in neo4j_utils.py
-   ![image](https://github.com/CS411DSO-SP24/Caleb_Saswati/assets/161897421/d67ed8fd-3707-44d5-84f7-be4af1b506dd)
 
    
 
